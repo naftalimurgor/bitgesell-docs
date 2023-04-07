@@ -2,46 +2,37 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Bitgesell in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by **creating a new wallet**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Visit [Bitgesell Wallet](https://app.bglwallet.io/#welcome) to create a wallet on the Bitgesell Blockchain network
 
-## Generate a new site
+## Create a new Wallet
 
-Generate a new Docusaurus site using the **classic template**.
+1. Create a new wallet:
+![create-wallet-image](/img/create-wallet.png)
 
-The classic template will automatically be added to your project after you run the command:
+You can also restore an existing Bitgesell wallet from a recovery seed phrase.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+2. Click "Create a New Wallet"
+3. Enter a password to protect your wallet on the browser:
+![create-passoword-image](/img/create-password.png)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+4. Click on "Create Local Password" to proceed to the next step of creating wallet
+![create-passoword-image](/img/create-seed-phrase-backup.png)
+5. Finally, click on "I have Copied it Somewhere" to finish creating wallet
+![create-passoword-image](/img/wallet-landing.png)
 
-The command also installs all necessary dependencies you need to run Docusaurus.
 
-## Start your site
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+> Password is only used locally as no data is stored off-chain. Keep your seedphrase backed up securely. Never share this phrase with anyone.
+## Summary
+You can now send/and or receive BGL with your newly created wallet!

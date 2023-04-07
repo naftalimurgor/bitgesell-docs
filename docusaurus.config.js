@@ -77,7 +77,7 @@ const config = {
             label: 'Getting started',
           },
           {href: 'https://manager.daolens.com/app/dao/Bitgesell/1374/overview', label: 'DAO', position: 'right'},
-          {href: 'https://discord.com/channels/745922397349347418/786136696088428574', label: 'Our community', position: 'right'},
+          {href: 'https://discord.com/channels/745922397349347418/786136696088428574', label: 'Community', position: 'right'},
 
           {
             href: 'https://github.com/BitgesellOfficial/bitgesell',
@@ -93,7 +93,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Getting started',
                 to: '/docs/intro',
               },
             ],
@@ -102,26 +102,22 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'DAO',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
                 label: 'Discord',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              // {
+              //   label: 'Twitter',
+              //   href: 'https://twitter.com/docusaurus',
+              // },
             ],
           },
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
@@ -129,7 +125,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Bitgesell, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
