@@ -18,10 +18,10 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'naftalimurgor', // Usually your GitHub org/user name.
+  projectName: 'bitgesell-docs', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -64,21 +64,23 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Bitgesell Docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Bitgesell logo',
+          src: 'img/bgl-logo.svg',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Getting started',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {href: 'https://manager.daolens.com/app/dao/Bitgesell/1374/overview', label: 'DAO', position: 'right'},
+          {href: 'https://discord.com/channels/745922397349347418/786136696088428574', label: 'Our community', position: 'right'},
+
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/BitgesellOfficial/bitgesell',
             label: 'GitHub',
             position: 'right',
           },
