@@ -12,8 +12,8 @@ function HomepageHeader() {
   return (
     <header style={{background: '#5444C6'}} className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title.toUpperCase()}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1  style={{ color: 'white'}} className="hero__title">{siteConfig.title.toUpperCase()}</h1>
+        <p className="hero__subtitle" style={{ color: 'white'}}>{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
