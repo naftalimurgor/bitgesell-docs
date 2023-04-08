@@ -18,10 +18,10 @@ To use `jsbgl` on the browser:
 
 ```javascript
 <script src="jsbgl.web.min.js"></script>
-<script> ...
+<script>
 // inside async function
 var jsbgl = await jsbgl.asyncInit();
-... </script>
+</script>
 ```
 
 To us on Nodejs:

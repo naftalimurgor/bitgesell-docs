@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="551px" height="718px" viewBox="0 0 551 718" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 10</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-954.000000, -3336.000000)">
+            <g id="Group-10" transform="translate(958.333794, 3336.925252)">
+                <g id="Group-6-Copy-5" transform="translate(-0.000000, 83.494578)">
+                    <circle id="Oval" fill="#55FF95" opacity="0" transform="translate(271.000000, 271.000000) scale(-1, 1) translate(-271.000000, -271.000000) " cx="271" cy="271" r="271"></circle>
+                    <circle id="Oval" fill="#55FF95" transform="translate(271.000000, 271.000000) scale(-1, 1) translate(-271.000000, -271.000000) " cx="271" cy="271" r="7.45066077"></circle>
+                    <circle id="Oval" stroke="#55FF95" stroke-width="8" cx="271" cy="271" r="271"></circle>
+                    <circle id="Oval" stroke="#55FF95" stroke-width="2" cx="271" cy="271" r="146.957721"></circle>
+                    <circle id="Oval" stroke="#55FF95" stroke-width="2" cx="271" cy="271" r="177.84375"></circle>
+                    <circle id="Oval" stroke="#55FF95" stroke-width="2" cx="271" cy="271" r="209.227941"></circle>
+                    <circle id="Oval" stroke="#55FF95" stroke-width="2" cx="271" cy="271" r="240.113971"></circle>
+                    <circle id="Oval" stroke="#55FF95" stroke-width="2" cx="271" cy="271" r="116.569853"></circle>
+                    <circle id="Oval" stroke="#55FF95" stroke-width="2" cx="271" cy="271" r="28.8933824"></circle>
+                    <circle id="Oval" stroke="#55FF95" stroke-width="2" cx="271" cy="271" r="56.7904412"></circle>
+                    <circle id="Oval" stroke="#55FF95" stroke-width="2" cx="271" cy="271" r="86.6801471"></circle>
+                </g>
+                <line x1="271" y1="665" x2="271" y2="350.408338" id="Line-3-Copy-11" stroke="#55FF95" stroke-width="2" stroke-linecap="square"></line>
+                <text id="Bitgesell-Copy-6" font-family="Menlo-Bold, Menlo" font-size="15" font-weight="bold" line-spacing="30" fill="#00005E">
+                    <tspan x="230.587592" y="692.804903">Bitgesell</tspan>
+                </text>
+                <text id="Bitcoin-Copy-5" font-family="Menlo-Bold, Menlo" font-size="15" font-weight="bold" line-spacing="30" fill="#00005E">
+                    <tspan x="239.618354" y="14">Bitcoin</tspan>
+                </text>
+                <line x1="271.22602" y1="84.2521562" x2="271.22602" y2="47" id="Line-3-Copy-12" stroke="#00FF89" stroke-width="2" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>

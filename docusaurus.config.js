@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Bitgesell developer docs',
+  tagline: 'A deflationary store of value',
+  favicon: 'img/bgl-logo.svg',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
@@ -67,7 +67,7 @@ const config = {
         title: 'Bitgesell Docs',
         logo: {
           alt: 'Bitgesell logo',
-          src: 'img/bgl-logo.svg',
+          src: 'img/logo.svg',
         },
         items: [
           {
@@ -120,7 +120,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: '',
               },
             ],
           },
