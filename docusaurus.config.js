@@ -113,7 +113,7 @@ const config = {
               },
               {
                 label: 'DAO',
-                href: 'https://manager.daolens.com/app/dao/Bitgesell/1374/overview'',
+                href: 'https://manager.daolens.com/app/dao/Bitgesell/1374/overview',
               },
               {
                 label: 'Discord',
