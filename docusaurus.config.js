@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Bitgesell developer docs',
-  tagline: 'A deflationary store of value',
+  tagline: 'This documentation is designed to help you build with Bitgesell. It covers Bitgesell as a concept, explains the Bitgesell tech stack, and documents getting started with Bitgesell.',
   favicon: 'img/bgl-logo.svg',
 
   // Set the production url of your site here
@@ -76,6 +76,8 @@ const config = {
             position: 'left',
             label: 'Getting started',
           },
+          {href: 'https://manager.daolens.com/app/dao/Bitgesell/1374/overview', label: 'Bitgesell', position: 'right'},
+          {href: 'https://app.bglwallet.io', label: 'Official Wallet', position: 'right'},
           {href: 'https://manager.daolens.com/app/dao/Bitgesell/1374/overview', label: 'DAO', position: 'right'},
           {href: 'https://discord.com/channels/745922397349347418/786136696088428574', label: 'Community', position: 'right'},
 
@@ -102,8 +104,16 @@ const config = {
             title: 'Community',
             items: [
               {
+                label: 'Bitgesell',
+                href: 'https://bitgesell.ca/',
+              },
+              {
+                label: 'Official Wallet',
+                href: 'https://app.bglwallet.io',
+              },
+              {
                 label: 'DAO',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://manager.daolens.com/app/dao/Bitgesell/1374/overview'',
               },
               {
                 label: 'Discord',
@@ -120,7 +130,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: '',
+                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
