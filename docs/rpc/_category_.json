@@ -1,6 +1,6 @@
 {
-    "label": "Other Resources",
-    "position": 8,
+    "label": "RPC refference",
+    "position": 9,
     "link": {
       "type": "generated-index"
     }
