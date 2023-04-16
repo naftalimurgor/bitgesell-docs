@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Block Chain RPC API Refference
+# Block Chain RPC API Reference
 
 Blockchain RPCs of Bitgesell
 
