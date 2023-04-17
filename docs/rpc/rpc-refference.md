@@ -6,5 +6,6 @@ sidebar_position: 1
 
 Blockchain RPCs of Bitgesell
 
-## RPC API reffrence
+## RPC API refrence
+
 Hang tight, details coming soon!
