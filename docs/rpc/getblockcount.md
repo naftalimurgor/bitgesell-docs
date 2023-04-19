@@ -13,7 +13,7 @@ Returns the block height of the most updated/synced working chain.
 Type: numberic
 Description: the current block height
 
-### Examples
+### Example usage (with RPC call)
 
 ```sh
 BGL-cli getblockcount

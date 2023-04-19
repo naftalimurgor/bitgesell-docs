@@ -69,7 +69,7 @@ Description: A string that is serialized, hex encoded data for block 'hash'
 }
 ```
 
-## Examples
+## Example usage (with RPC call)
 
 ```sh
 BGL-cli getblock "0000000000000195be3ee2b37e88f07919265da7eb2ff0f625cd45511c9eb48c"

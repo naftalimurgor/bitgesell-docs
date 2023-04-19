@@ -25,7 +25,7 @@ The type name of the filter.
 }
 ```
 
-## Examples
+## Example usage (with RPC call)
 
 ```sh
 BGL-cli getblockfilter "0000000000000195be3ee2b37e88f07919265da7eb2ff0f625cd45511c9eb48c"

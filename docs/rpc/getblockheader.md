@@ -40,4 +40,4 @@ BGL-cli getblockheader [true]
 
 ```
 
-### Examples
+### Example usage (with RPC call)

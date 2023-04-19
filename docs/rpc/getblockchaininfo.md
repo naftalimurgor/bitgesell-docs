@@ -52,7 +52,7 @@ Returns an object containing various state regarding blockchain.
 }
 ```
 
-### Examples
+### Example usage (with RPC call)
 
 ```sh
 BGL-cli getblockchaininfo
