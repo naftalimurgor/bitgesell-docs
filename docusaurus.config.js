@@ -39,10 +39,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/naftalimurgor/bitgesell-docs',
         },
         blog: {
           showReadingTime: true,
@@ -131,6 +132,15 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
+              },
+            ],
+          },
+          {
+            title: 'Donate',
+            items: [
+              {
+                label: 'USDT (Ethereum): 0xe8931e29af87d9c65476aba80cff2e8d074c95ed',
+                href: 'https://etherscan.io/address/0xe8931e29af87d9c65476aba80cff2e8d074c95ed',
               },
             ],
           },
