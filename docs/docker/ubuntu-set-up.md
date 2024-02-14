@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 ---
-BGLd for Docker Linux
+BGLd for Docker on Linux
 ===================
 
 Docker image that runs the Bitgesell bgld node in a container for easy deployment.
