@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 ---
-Bitgesell Blocksize Explained
+Bitgesell Halving
 ===================
 
 ## What is Halving?
