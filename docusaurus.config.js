@@ -77,10 +77,10 @@ const config = {
             position: 'left',
             label: 'Getting started',
           },
-          {href: 'https://manager.daolens.com/app/dao/Bitgesell/1374/overview', label: 'Bitgesell', position: 'right'},
-          {href: 'https://app.bglwallet.io', label: 'Official Wallet', position: 'right'},
-          {href: 'https://manager.daolens.com/app/dao/Bitgesell/1374/overview', label: 'DAO', position: 'right'},
-          {href: 'https://discord.com/channels/745922397349347418/786136696088428574', label: 'Community', position: 'right'},
+          { href: 'https://bitgesell.dev', label: 'Bitgesell', position: 'right' },
+          { href: 'https://app.bglwallet.io', label: 'Official Wallet', position: 'right' },
+          { href: 'https://manager.daolens.com/app/dao/Bitgesell/1374/overview', label: 'DAO', position: 'right' },
+          { href: 'https://discord.com/channels/745922397349347418/786136696088428574', label: 'Community', position: 'right' },
 
           {
             href: 'https://github.com/BitgesellOfficial/bitgesell',
@@ -90,7 +90,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Docs',
@@ -145,7 +145,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Bitgesell, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Bitgesell.`,
       },
       prism: {
         theme: lightCodeTheme,
