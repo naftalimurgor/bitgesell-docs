@@ -136,7 +136,7 @@ const config = {
             ],
           },
           {
-            title: 'Donate',
+            title: 'Donate to support',
             items: [
               {
                 label: 'USDT (Ethereum): 0xe8931e29af87d9c65476aba80cff2e8d074c95ed',
