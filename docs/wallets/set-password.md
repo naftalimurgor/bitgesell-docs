@@ -1,9 +1,9 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Create a password
-## 2. Setup a password 
+# Set a password
+## Set a password 
 1. Enter a password to protect your wallet on the browser:
 2. Click "Create local password"
 ![create-passoword-image](/img/create-password.png)

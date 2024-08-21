@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Let's discover **Bitgesell in less than 5 minutes**.
 
-## Getting Started
+## 1. Getting Started
 
 Get started by **creating a new wallet**.
 
