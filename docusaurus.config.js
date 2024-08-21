@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bitgesell developer docs',
+  title: 'Bitgesell Developer Documentation',
   tagline: 'This documentation is designed to help you build with Bitgesell. It covers Bitgesell as a concept, explains the Bitgesell tech stack, and documents getting started with Bitgesell.',
   favicon: 'img/bgl-logo.svg',
 
   // Set the production url of your site here
-  url: 'https://bitgesell-docs.netlify.com',
+  url: 'https://docs.bitgesell.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
