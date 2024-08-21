@@ -3,7 +3,7 @@ slug: /
 sidebar_position: 2
 ---
 
-# Create a Web wallet
+# Create a web wallet
 
 Quickly create a wallet without having to set up a full node
 
