@@ -77,7 +77,7 @@ const config = {
             position: 'left',
             label: 'Getting started',
           },
-          { href: 'https://manager.daolens.com/app/dao/Bitgesell/1374/overview', label: 'Bitgesell', position: 'right' },
+          { href: 'https://bitgesell.dev', label: 'Bitgesell', position: 'right' },
           { href: 'https://app.bglwallet.io', label: 'Official Wallet', position: 'right' },
           { href: 'https://manager.daolens.com/app/dao/Bitgesell/1374/overview', label: 'DAO', position: 'right' },
           { href: 'https://discord.com/channels/745922397349347418/786136696088428574', label: 'Community', position: 'right' },
@@ -97,7 +97,7 @@ const config = {
             items: [
               {
                 label: 'Getting started',
-                to: '/docs/intro',
+                to: '/docs/wallets',
               },
             ],
           },
@@ -136,7 +136,7 @@ const config = {
             ],
           },
           {
-            title: 'Donate',
+            title: 'Donate to support',
             items: [
               {
                 label: 'USDT (Ethereum): 0xe8931e29af87d9c65476aba80cff2e8d074c95ed',
